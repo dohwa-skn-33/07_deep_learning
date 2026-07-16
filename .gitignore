@@ -25,3 +25,6 @@ catboost_info/
 
 cifar*
 cifar*.*
+
+*.pth
+*.mat
