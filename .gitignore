@@ -22,3 +22,6 @@ __pycache__/
 
 models/
 catboost_info/
+
+cifar*
+cifar*.*
